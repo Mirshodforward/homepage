@@ -36,7 +36,7 @@ function Home() {
             color: "#fff",
             fontWeight: 700,
             fontSize: "1.35rem",
-            letterSpacing: "1px",
+            
             textTransform: "uppercase",
             letterSpacing: "2px",
           }}
